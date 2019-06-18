@@ -23,10 +23,13 @@ Using TextCNN、LSTM、GRU、Attention、Transformer 进行文本分类
 ### 2、训练参数
 `batch_size`: `64`
 </b>
+
 `num_epochs`: `200`
 </b>
+
 `evaluate_every`: `500`  
 </b>
+
 </b>
 
 ### 3、结果
