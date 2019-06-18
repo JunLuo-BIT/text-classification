@@ -5,9 +5,15 @@ Using TextCNN、LSTM、GRU、Attention、Transformer 进行文本分类
 
 ## 一、TextCNN 
 ### 1、超参数
-`embedding_dim`:  `0.1` </b>
-`filter_sizes`: `128`  </b>
-`num_filters`: `3,4,5` </b>
+`embedding_dim`:  `0.1` 
+</b>
+
+`filter_sizes`: `128`  
+</b>
+
+`num_filters`: `3,4,5` 
+</b>
+
 `dropout_keep_prob`: `0.5` </b>
 `l2_reg_lambda`: `0.01` </b>
 </b>
